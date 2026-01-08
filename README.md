@@ -1,1 +1,5 @@
 # MachineLearning
+
+Stduent_marks_Prediction Project using Machine Learning algorithm
+
+It uses DecisionTreeRegressor, RandomForestRegressor
